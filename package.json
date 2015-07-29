@@ -1,6 +1,6 @@
 {
   "name": "language-eso-lua",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "author": "Arthur <arthur@corenzan.com>",
   "description": "Extends Lua syntax for ESO add-ons",
